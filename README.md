@@ -16,7 +16,7 @@ Desarrollar usando html, css, sass y bootstrap una landing de un ecommerce que c
 En la terminal correr el siguiente comando
 
 ```bash
-git clone "https://github.com/missvico/ejercicio-integrador"
+git clone "https://github.com/missvico/ejercicio-integrador.git"
 ```
 
 ## ¿Cómo inciar el proyecto?
